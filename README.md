@@ -1,13 +1,13 @@
-# 📊 Crop Production Analysis in India (SQL + Power BI)
+#  Crop Production Analysis in India (SQL + Power BI)
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes agricultural crop production data across various Indian states and districts over multiple years. Using **SQL** for data analysis and **Power BI** for visualization, the project uncovers production trends, seasonal patterns, top-performing crops, and land-use efficiency (yield).
 The project is designed to demonstrate **end-to-end data analyst skills** including data querying, transformation, KPI creation, and dashboard storytelling.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Analyze crop production trends across years
 * Identify top crops by state, season, and region
@@ -17,7 +17,7 @@ The project is designed to demonstrate **end-to-end data analyst skills** includ
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 * **SQL Server (T-SQL)** – Data aggregation, window functions, CTEs
 * **Power BI** – Interactive dashboards & DAX measures
@@ -25,50 +25,7 @@ The project is designed to demonstrate **end-to-end data analyst skills** includ
 
 ---
 
-## 🗂 Recommended Repository Structure
-
-```
-Crop-Production-Analysis/
-│
-├── data/
-│   └── crop_production_india.csv
-│
-├── sql/
-│   ├── data_cleaning.sql
-│   ├── exploratory_analysis.sql
-│   ├── yoy_growth.sql
-│   └── top_crops_analysis.sql
-│
-├── powerbi/
-│   ├── crop_production_dashboard.pbix
-│   └── dashboard_screenshots/
-│       ├── overview.png
-│       ├── top_crops.png
-│       └── yoy_growth.png
-│
-├── insights/
-│   └── key_findings.md
-│
-└── README.md
-```
-
----
-
-## 🧾 Dataset Description
-
-**Source:** Government of India – Agricultural Crop Production Statistics
-
-**Key Columns:**
-
-* State_Name
-* District_Name
-* Crop
-* Season
-* Crop_Year
-* Area (Hectares)
-* Production (Tonnes)
-
----
+## Dataset used (link)- <a href="https://github.com/Bhaiy/Crop-Production-and-Yield-Analysis/blob/main/Crop_prod_study.csv">Dataset</a>
 
 ## 🔍 SQL Analysis Highlights
 
