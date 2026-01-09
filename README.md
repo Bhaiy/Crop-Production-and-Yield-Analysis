@@ -27,7 +27,7 @@ The project is designed to demonstrate **end-to-end data analyst skills** includ
 
 ## Dataset used (link)- <a href="https://github.com/Bhaiy/Crop-Production-and-Yield-Analysis/blob/main/Crop_prod_study.csv">Dataset</a>
 
-## 🔍 SQL Analysis Highlights
+## SQL Analysis Highlights
 
 * Aggregated total production by crop, state, and year
 * Used **CTEs and Window Functions (LAG)** for YoY growth
@@ -36,36 +36,31 @@ The project is designed to demonstrate **end-to-end data analyst skills** includ
 
 ---
 
-## 📈 Power BI Dashboard Features
+## Power BI Dashboard Features
 
-* KPI cards: Total Production, Avg Yield
+* KPI cards: Total Production, Total Yield,Total area
 * Line charts: Production trend over years
-* Maps: Top crops by state
-* Slicers: Year, Season, Crop, State
+* Slicers: Year, Crop
 * Bar charts: Top crops by region
 
-*(Add dashboard screenshots below)*
+Dashboard=<a href="https://github.com/Bhaiy/Crop-Production-and-Yield-Analysis/blob/main/Screenshot%202026-01-09%20094136.png"</a>
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
-* Rice and Wheat dominate production across most states
-* Certain states show high yield despite lower cultivation area
-* Seasonal trends reveal strong Kharif dependency
-* YoY growth varies significantly by crop and region
+* Crop production in India is concentrated in specific regions, with the South contributing the highest output, driven mainly by coconut and sugarcane.
+* Crop production peaked in 2011 and then experienced a nearly 50% decline in 2012.
+* Year-wise analysis shows a long-term growth trend in production with occasional fluctuations due to external factors.
+* Coconut and sugarcane show the highest average yield, indicating strong land-use efficiency.
+
+
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 This project demonstrates strong analytical thinking, SQL proficiency, and the ability to convert raw data into meaningful business insights using Power BI. It reflects real-world data analyst responsibilities and is suitable for entry to mid-level analyst roles.
 
 ---
 
-## 📬 Contact
-
-**Bhavesh Adlak**
-Aspiring Data Analyst
-LinkedIn: *(add your link)*
-GitHub: *(your profile)*
