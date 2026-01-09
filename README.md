@@ -43,7 +43,7 @@ The project is designed to demonstrate **end-to-end data analyst skills** includ
 * Slicers: Year, Crop
 * Bar charts: Top crops by region
 
-Dashboard=<a href="https://github.com/Bhaiy/Crop-Production-and-Yield-Analysis/blob/main/Screenshot%202026-01-09%20094136.png"</a>
+  <a href="https://github.com/Bhaiy/Crop-Production-and-Yield-Analysis/blob/main/Screenshot%202026-01-09%20094136.png"> Dashboard</a>
 
 ---
 
