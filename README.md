@@ -26,7 +26,7 @@ The project is designed to demonstrate **end-to-end data analyst skills** includ
 ---
 
 ## Dataset used (link)- <a href="https://github.com/Bhaiy/Crop-Production-and-Yield-Analysis/blob/main/Crop_prod_study.csv">Dataset</a>
-
+---
 ## SQL Analysis Highlights
 
 * Aggregated total production by crop, state, and year
